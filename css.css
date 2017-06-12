@@ -1,0 +1,28 @@
+ #carré{
+ 	background-color: #45474A;
+ 	width: 500px;
+ 	height: 500px;
+
+ }
+ input{
+ 	border-radius: 50%;
+ 	  }
+ 	   #carré{
+ 	   	position: absolute;
+ 	   }
+
+img{ position: absolute;
+ margin-left:75%;
+}
+#banner2 ul{
+display: flex;
+flex-direction: row;
+ text-decoration: none;
+}
+#banner2 ul li{
+	margin-left: 25px;
+	
+}
+body{
+	background-color: #FFFFFF
+}
